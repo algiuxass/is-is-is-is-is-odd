@@ -4,7 +4,7 @@
 
 ## Install
 
-Install with [npm](https://www.npmjs.com/):
+Coming soon? ~~Install with [npm](https://www.npmjs.com/):~~
 
 ```sh
 $ npm install --save is-is-is-is-is-odd
@@ -14,7 +14,7 @@ $ npm install --save is-is-is-is-is-odd
 
 ```js
 const isIsIsIsOdd = require("is-is-is-is-odd");
-const isIsIsIsIsOdd = require("is-is-is-is-is-odd");
+const isIsIsIsIsOdd = require("is-is-is-is-is-odd"); // It's not on NPM yet!
 
 console.log(isIsIsIsIsOdd(isIsIsIsOdd)); // => true
 console.log(isIsIsIsIsOdd(function () {})); // => false
