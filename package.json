@@ -1,16 +1,16 @@
 {
-  "name": "is-is-is-is-odd",
-  "version": "1.0.1",
-  "description": "check if a function is is-is-odd",
-  "homepage": "https://github.com/victorperin/is-is-is-is-odd",
-  "repository": "victorperin/is-is-is-is-odd",
+  "name": "is-is-is-is-is-odd",
+  "version": "1.0.0",
+  "description": "check if a function is is-is-is-odd",
+  "homepage": "https://github.com/algiuxass/is-is-is-is-is-odd",
+  "repository": "victorperin/is-is-is-is-is-odd",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
     "test": ""
   },
   "dependencies": {
-    "is-is-is-odd": "1.0.0"
+    "is-is-is-is-odd": "1.0.1"
   },
   "keywords": [
     "odd",
@@ -19,6 +19,8 @@
     "is-is-odd",
     "is-is-is-odd",
     "is-is-is-is-odd",
+    "is-is-is-is-is-odd",
+    "is-is-is-is-is-is-odd",
     "security",
     "kernal"
   ]
