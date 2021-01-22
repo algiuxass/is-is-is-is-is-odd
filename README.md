@@ -16,8 +16,8 @@ $ npm install --save is-is-is-is-is-odd
 const isIsIsIsOdd = require("is-is-is-is-odd");
 const isIsIsIsIsOdd = require("is-is-is-is-is-odd");
 
-console.log(isIsIsIsOdd(isIsIsIsOdd)); // => true
-console.log(isIsIsIsOdd(function () {})); // => false
+console.log(isIsIsIsIsOdd(isIsIsIsOdd)); // => true
+console.log(isIsIsIsIsOdd(function () {})); // => false
 ```
 
 ## Why
