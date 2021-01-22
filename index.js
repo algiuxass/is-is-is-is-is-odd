@@ -1,5 +1,5 @@
-const isIsIsOdd = require("is-is-is-odd");
+const isIsIsIsOdd = require("is-is-is-is-odd");
 
-module.exports = function isIsIsIsOdd(func) {
-  return func == isIsIsOdd;
+module.exports = function isIsIsIsIsOdd(func) {
+  return func == isIsIsIsOdd;
 };
